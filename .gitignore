@@ -1,0 +1,20 @@
+# Environment variables (contains secrets)
+.env
+
+# Logs
+*.log
+
+# Docker volumes / data
+data/
+volumes/
+
+# K3s generated kubeconfig (contains certs)
+config/k3s/kubeconfig.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
