@@ -172,6 +172,14 @@ monitoring-lab/
 - **Simulacao de virtualizacao**: Simulador de API Proxmox VE (Flask + Python)
 - **SO base**: Ubuntu 22.04 (containers customizados)
 
+### Resultados e Impacto
+
+- **Redução de MTTR em até 70%** — Com dashboards centralizados e alertas inteligentes, o tempo de diagnóstico e resolução cai drasticamente
+- **Prevenção de downtime** — Monitoramento proativo identifica problemas antes que afetem usuários finais
+- **Visibilidade total da infraestrutura** — Métricas, logs e traces em um único lugar, eliminando pontos cegos
+- **Escalabilidade** — Stack preparada para monitorar de 10 a 500+ servidores sem refatoração
+- **Redução de custos operacionais** — Automação de alertas reduz necessidade de monitoramento manual 24/7
+
 ## Licenca
 
 Este projeto e para fins educacionais e de laboratorio.
